@@ -1,6 +1,6 @@
 # Robotic Motion Planning
 
-I have implemented motion planning algorithms like Dijkstra's SFP, Rapidly-exploring Random Tree (RRT), Probabilistic Roadmap (PRM) and Voronoi diagram-based path planning. See the [Jupyter notebook](Motion%Planning.ipynb) for the implementation and explanation.
+I have implemented motion planning algorithms like Dijkstra's SFP, Rapidly-exploring Random Tree (RRT), Probabilistic Roadmap (PRM) and Voronoi diagram-based path planning. See the [Jupyter notebook](Motion%20Planning.ipynb) for the implementation and explanation.
 
 # References and Credit
 
